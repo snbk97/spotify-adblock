@@ -1,4 +1,4 @@
-# spotify-adblock
+# spotify-adblock (still works #990c0f - 06 Nov 2021)
 Spotify adblocker for Linux (macOS untested) that works by wrapping `getaddrinfo` and `cef_urlrequest_create`. It blocks requests to domains that are not on the allowlist, as well as URLs that are on the denylist.
 
 ### Notes
